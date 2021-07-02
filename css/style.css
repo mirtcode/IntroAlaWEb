@@ -1,0 +1,22 @@
+body {
+  background-color: #cdf0ea;
+  font-family: 'Yomogi', sans-serif, cursive;
+}
+section {
+  background-color: #f9f9f9;
+}
+
+#seccion-quien-soy h2 {
+  color: #ffc074;
+}
+
+#seccion-mis-hobbies h2 {
+  color: #ff94cc;
+}
+
+.lista-hobbie {
+  color: #77acf1;
+}
+
+
+
